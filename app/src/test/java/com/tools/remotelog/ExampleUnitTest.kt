@@ -1,4 +1,4 @@
-package com.tools.remotelogtool
+package com.tools.remotelog
 
 import org.junit.Test
 

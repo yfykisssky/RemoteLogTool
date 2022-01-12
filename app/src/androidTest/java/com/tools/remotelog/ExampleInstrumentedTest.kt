@@ -1,4 +1,4 @@
-package com.tools.remotelogtool
+package com.tools.remotelog
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
