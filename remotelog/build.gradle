@@ -31,3 +31,7 @@ android {
 }
 
 dependencies {}
+ext {
+    PUBLISH_ARTIFACT_ID = 'remotelog'
+}
+apply from: '../publish.gradle'
