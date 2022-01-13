@@ -111,3 +111,12 @@ publishing {
 signing {
     sign publishing.publications
 }
+
+//local.properties文件,设置密钥等信息
+/*
+signing.keyId=//pub中获取的秘钥后8位
+signing.password=//GPG密码
+signing.secretKeyRingFile=//生成的secring.gpg文件目录
+ossrhUsername=//sonatype用户名
+ossrhPassword=//sonatype密码
+*/
